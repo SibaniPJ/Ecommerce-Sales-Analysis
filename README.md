@@ -101,7 +101,7 @@ Ecommerce-Sales-Analysis/
 ├── ecommerce_sales_analysis_dataset.csv
 └── README.md
 
-
+```
 
 🚀 How to Run the Project
 Clone or download this repository.
@@ -127,3 +127,28 @@ Perform deeper customer segmentation
 Add sales forecasting
 Perform advanced statistical analysis
 Create SQL-based analysis of the same dataset
+
+## Key Results
+
+- **Total Revenue:** ₹756,260.80
+- **Total Profit:** ₹155,492.98
+- **Total Orders:** 150
+- **Average Order Value:** ₹4,975.40
+- **Overall Profit Margin:** 20.56%
+- **Top Revenue Category:** Beauty
+- **Top Profit Category:** Beauty
+- **Top Revenue City:** Pune
+- **Top Profit City:** Pune
+- **Top Revenue Product:** Laptop
+- **Top Profit Product:** Laptop
+- **Loss-Making Orders:** 5
+
+- ## Business Insights
+
+1. Beauty is the strongest-performing category in both revenue and profit.
+2. Pune is the top-performing city for both revenue and profit.
+3. Laptop is the highest-performing product in both revenue and profit.
+4. The overall profit margin is approximately 20.56%.
+5. Five orders generated negative profit and should be investigated.
+6. High-value orders should be evaluated based on profitability, not revenue alone.
+7. Higher discounts show a negative relationship with profit, indicating the need for careful discount management.
