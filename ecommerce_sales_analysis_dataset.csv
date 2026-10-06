@@ -1,0 +1,153 @@
+order_id,order_date,customer_id,city,category,product,quantity,unit_price,payment_method,channel,discount_pct,revenue,cost,profit
+1001,2026-04-13,545,Mumbai,Beauty,Headphones,4,799,UPI,Website,20,2556.8,1830.19,726.61
+1002,2026-06-29,557,Mumbai,Electronics,T-Shirt,2,799,Credit Card,Website,10,1438.2,1240.01,198.19
+1003,2026-04-03,553,Mumbai,Home,Watch,4,299,Debit Card,Website,10,1076.4,755.5,320.9
+1004,2026-01-15,506,Delhi,Beauty,Laptop,3,1499,Debit Card,Mobile App,10,4047.3,3684.07,363.23
+1005,2026-04-17,528,Pune,Clothing,Headphones,3,299,UPI,Website,10,807.3,635.05,172.25
+1006,2026-03-13,528,Ahmedabad,Electronics,Backpack,1,499,UPI,Mobile App,5,474.05,394.32,79.73
+1007,2026-01-21,544,Delhi,Beauty,Mixer,4,299,Credit Card,Mobile App,15,1016.6,1009.04,7.56
+1008,2026-04-13,544,Mumbai,Beauty,Headphones,2,799,,Website,20,1278.4,1281.49,-3.09
+1009,2026-05-02,520,Ahmedabad,Clothing,Headphones,3,4999,Credit Card,Mobile App,0,14997.0,12149.04,2847.96
+1010,2026-03-16,530,Delhi,Home,Headphones,3,299,UPI,Mobile App,15,762.45,603.14,159.31
+1011,2026-03-29,511,Pune,Home,Skincare,2,1499,Credit Card,Mobile App,10,2698.2,2145.12,553.08
+1012,2026-04-27,558,Delhi,Home,Headphones,2,7999,UPI,Mobile App,15,13598.3,10017.41,3580.89
+1013,2026-04-10,555,Pune,Beauty,T-Shirt,3,4999,Credit Card,Website,20,11997.6,9130.68,2866.92
+1014,2026-04-14,528,Mumbai,Beauty,Laptop,3,2499,UPI,Mobile App,0,7497.0,5260.29,2236.71
+1015,2026-06-01,525,Pune,Beauty,Watch,2,999,UPI,Website,0,1998.0,1455.57,542.43
+1016,2026-05-11,539,Ahmedabad,Electronics,Shoes,3,299,UPI,Mobile App,20,717.6,584.65,132.95
+1017,2026-05-30,533,Mumbai,Clothing,Headphones,1,1499,Cash,Mobile App,20,1199.2,1080.53,118.67
+1018,2026-02-22,501,Ahmedabad,Beauty,Mixer,1,4999,Credit Card,Website,10,4499.1,4080.37,418.73
+1019,2026-01-02,557,,Clothing,Headphones,2,1499,Credit Card,Mobile App,0,2998.0,2149.62,848.38
+1020,2026-03-29,527,Bengaluru,Clothing,Mixer,4,2499,Credit Card,Mobile App,15,8496.6,7659.37,837.23
+1021,2026-06-07,557,Pune,Home,T-Shirt,2,799,UPI,Mobile App,5,1518.1,1264.97,253.13
+1022,2026-02-07,552,Bengaluru,Electronics,Mixer,2,1499,Credit Card,Website,5,2848.1,2538.16,309.94
+1023,2026-05-10,513,Bengaluru,Beauty,Backpack,4,4999,Credit Card,Mobile App,20,15996.8,14616.26,1380.54
+1024,2026-01-21,541,Pune,Home,Shoes,4,1499,UPI,Website,10,5396.4,4749.16,647.24
+1025,2026-06-10,503,Mumbai,Home,Laptop,4,1499,Debit Card,Mobile App,5,5696.2,5029.41,666.79
+1026,2026-02-27,539,Bhubaneswar,Beauty,Mixer,1,1499,UPI,Website,0,1499.0,1249.15,249.85
+1027,2026-01-22,506,Ahmedabad,Clothing,Mixer,3,499,Credit Card,Website,20,1197.6,886.71,310.89
+1028,2026-03-30,508,Delhi,Home,Laptop,1,499,UPI,Mobile App,15,424.15,335.29,88.86
+1029,2026-02-18,527,Ahmedabad,Clothing,Shoes,3,799,Debit Card,Mobile App,20,1917.6,1551.33,366.27
+1030,2026-02-28,509,Delhi,Electronics,Headphones,1,299,UPI,Website,15,254.15,172.25,81.9
+1031,2026-06-19,537,Ahmedabad,Clothing,Mixer,3,1499,Credit Card,Website,20,3597.6,3327.66,269.94
+1032,2026-01-15,533,Pune,Electronics,Laptop,1,2499,Debit Card,Mobile App,20,1999.2,1926.16,73.04
+1033,2026-06-24,551,Bhubaneswar,Clothing,Backpack,4,299,Cash,Website,20,956.8,962.11,-5.31
+1034,2026-02-20,542,Delhi,Home,Backpack,2,2499,Credit Card,Mobile App,15,4248.3,2932.99,1315.31
+1035,2026-04-18,544,Mumbai,Home,T-Shirt,1,299,Debit Card,Mobile App,15,254.15,243.07,11.08
+1036,2026-02-24,524,Ahmedabad,Electronics,Laptop,3,799,Debit Card,Mobile App,20,1917.6,1780.68,136.92
+1037,2026-03-05,515,Ahmedabad,Beauty,T-Shirt,4,1499,Cash,Mobile App,5,5696.2,4564.06,1132.14
+1038,2026-05-11,559,Delhi,Electronics,Backpack,1,1499,UPI,Website,10,1349.1,1233.96,115.14
+1039,2026-02-20,554,Mumbai,Electronics,Shoes,1,999,UPI,Mobile App,10,899.1,736.69,162.41
+1040,2026-05-15,532,Mumbai,Clothing,Headphones,4,2499,Credit Card,Website,10,8996.4,6504.99,2491.41
+1041,2026-01-21,532,Pune,Clothing,Laptop,1,299,Cash,Mobile App,15,254.15,238.46,15.69
+1042,2026-03-14,524,Pune,Electronics,Watch,2,299,UPI,Website,15,508.3,394.03,114.27
+1043,2026-06-16,541,Pune,Home,Backpack,1,7999,,Mobile App,5,7599.05,4481.59,3117.46
+1044,2026-01-18,552,Pune,Clothing,Backpack,2,7999,UPI,Website,10,14398.2,12785.54,1612.66
+1045,2026-05-12,549,Pune,Beauty,Watch,2,499,Debit Card,Website,10,898.2,652.25,245.95
+1046,2026-03-30,549,Pune,Clothing,Skincare,4,999,UPI,Mobile App,20,3196.8,3125.47,71.33
+1047,2026-03-01,558,Bhubaneswar,Clothing,Backpack,1,4999,Cash,Mobile App,15,4249.15,3293.48,955.67
+1048,2026-01-14,552,Mumbai,Beauty,Mixer,4,7999,Debit Card,Mobile App,10,28796.4,25863.02,2933.38
+1049,2026-01-09,512,Pune,Electronics,Shoes,1,4999,Debit Card,Mobile App,5,4749.05,3078.65,1670.4
+1050,2026-03-31,539,Mumbai,Beauty,Laptop,1,499,Debit Card,Website,5,474.05,420.34,53.71
+1051,2026-02-22,502,Mumbai,Electronics,Watch,3,499,Cash,Mobile App,10,1347.3,1173.54,173.76
+1052,2026-05-10,503,Bengaluru,Electronics,Mixer,1,499,Credit Card,Website,15,424.15,291.55,132.6
+1053,2026-03-25,549,Bhubaneswar,Electronics,Watch,4,2499,Credit Card,Website,5,9496.2,7194.45,2301.75
+1054,2026-04-02,537,Pune,Beauty,Laptop,2,2499,Credit Card,Mobile App,20,3998.4,4226.36,-227.96
+1055,2026-04-21,549,Ahmedabad,Electronics,T-Shirt,1,799,Cash,Website,5,759.05,552.36,206.69
+1056,2026-06-21,556,Delhi,Home,Laptop,3,799,Debit Card,Website,0,2397.0,1449.3,947.7
+1057,2026-01-08,517,Ahmedabad,Beauty,Skincare,4,499,Credit Card,Website,0,1996.0,1388.09,607.91
+1058,2026-06-24,559,Bhubaneswar,Home,Laptop,1,999,Cash,Website,15,849.15,703.03,146.12
+1059,2026-02-04,549,Delhi,Electronics,Laptop,4,299,Credit Card,Mobile App,10,1076.4,923.92,152.48
+1060,2026-03-22,502,Bhubaneswar,Clothing,Skincare,3,2499,UPI,Mobile App,15,6372.45,5695.12,677.33
+1061,2026-06-13,502,Mumbai,Electronics,Shoes,3,999,Credit Card,Mobile App,15,2547.45,2010.28,537.17
+1062,2026-02-19,528,Delhi,Home,Backpack,4,1499,Credit Card,Mobile App,15,5096.6,3689.98,1406.62
+1063,2026-04-14,554,Mumbai,Home,Laptop,1,2499,Debit Card,Website,15,2124.15,1858.05,266.1
+1064,2026-05-12,523,Ahmedabad,Beauty,Skincare,2,2499,Cash,Website,20,3998.4,3381.2,617.2
+1065,2026-01-02,537,Ahmedabad,Clothing,Mixer,3,799,Debit Card,Mobile App,20,1917.6,1413.47,504.13
+1066,2026-05-14,532,Delhi,Beauty,T-Shirt,1,299,Debit Card,Mobile App,5,284.05,245.23,38.82
+1067,2026-02-23,533,Delhi,Home,T-Shirt,1,299,Debit Card,Mobile App,0,299.0,226.45,72.55
+1068,2026-04-16,501,Pune,Electronics,Laptop,2,7999,Debit Card,Website,15,13598.3,12077.77,1520.53
+1069,2026-01-04,519,Bhubaneswar,Clothing,Shoes,3,4999,Debit Card,Mobile App,5,14247.15,11949.24,2297.91
+1070,2026-02-23,502,Pune,Electronics,Shoes,3,4999,Credit Card,Mobile App,0,14997.0,10631.35,4365.65
+1071,2026-05-26,553,Bhubaneswar,Electronics,Mixer,1,4999,Debit Card,Mobile App,10,4499.1,3971.79,527.31
+1072,2026-02-13,544,Pune,Clothing,Laptop,1,4999,Debit Card,Website,20,3999.2,3496.44,502.76
+1073,2026-06-11,526,Mumbai,Beauty,T-Shirt,2,1499,Cash,Website,0,2998.0,1709.32,1288.68
+1074,2026-01-14,532,Delhi,Electronics,Shoes,2,1499,UPI,Website,10,2698.2,2013.38,684.82
+1075,2026-04-05,506,Ahmedabad,Home,Laptop,3,2499,Credit Card,Website,0,7497.0,5242.2,2254.8
+1076,2026-02-17,532,Bhubaneswar,Electronics,Watch,4,499,Credit Card,Website,20,1596.8,1529.06,67.74
+1077,2026-01-15,555,Bhubaneswar,Clothing,Shoes,3,799,Credit Card,Website,20,1917.6,1394.99,522.61
+1078,2026-02-09,504,,Clothing,Skincare,1,799,Debit Card,Website,5,759.05,473.01,286.04
+1079,2026-03-23,555,Pune,Clothing,Watch,3,4999,Debit Card,Website,15,12747.45,9434.69,3312.76
+1080,2026-04-21,511,Bhubaneswar,Beauty,Backpack,4,2499,Debit Card,Mobile App,0,9996.0,6296.98,3699.02
+1081,2026-02-22,556,Mumbai,Electronics,Shoes,2,7999,Cash,Mobile App,0,15998.0,12312.95,3685.05
+1082,2026-01-24,559,Delhi,Beauty,T-Shirt,4,999,UPI,Website,10,3596.4,2498.38,1098.02
+1083,2026-06-03,517,Ahmedabad,Beauty,Headphones,4,499,Debit Card,Website,20,1596.8,1476.9,119.9
+1084,2026-05-04,538,Delhi,Clothing,Watch,4,2499,UPI,Mobile App,0,9996.0,6980.03,3015.97
+1085,2026-02-10,524,Bhubaneswar,Clothing,Backpack,2,499,Cash,Website,20,798.4,720.54,77.86
+1086,2026-06-06,505,Bhubaneswar,Beauty,Mixer,4,499,Credit Card,Website,0,1996.0,1599.66,396.34
+1087,2026-01-15,552,Ahmedabad,Electronics,Mixer,4,499,Debit Card,Website,5,1896.2,1339.94,556.26
+1088,2026-02-14,534,Mumbai,Home,T-Shirt,4,2499,UPI,Mobile App,15,8496.6,7809.61,686.99
+1089,2026-03-06,506,Bengaluru,Beauty,Shoes,1,4999,UPI,Mobile App,0,4999.0,3382.38,1616.62
+1090,2026-03-30,522,Ahmedabad,Electronics,Laptop,4,799,Debit Card,Mobile App,20,2556.8,2097.09,459.71
+1091,2026-03-12,511,Bengaluru,Clothing,Shoes,2,799,Credit Card,Mobile App,5,1518.1,1338.47,179.63
+1092,2026-01-09,548,Pune,Clothing,T-Shirt,4,4999,Credit Card,Mobile App,0,19996.0,12103.8,7892.2
+1093,2026-03-29,516,Bengaluru,Electronics,Mixer,4,499,Credit Card,Website,10,1796.4,1151.89,644.51
+1094,2026-05-09,533,Mumbai,Home,Shoes,2,999,Cash,Mobile App,15,1698.3,1561.03,137.27
+1095,2026-05-16,509,Pune,Clothing,Mixer,4,299,UPI,Website,0,1196.0,682.29,513.71
+1096,2026-03-04,560,Bengaluru,Clothing,Watch,2,2499,UPI,Website,5,4748.1,4004.02,744.08
+1097,2026-05-19,559,Pune,Clothing,Backpack,4,299,UPI,Mobile App,10,1076.4,814.66,261.74
+1098,2026-03-22,506,Bengaluru,Electronics,Laptop,2,7999,Cash,Mobile App,5,15198.1,13192.82,2005.28
+1099,2026-05-16,516,Mumbai,Beauty,Watch,4,4999,UPI,Website,5,18996.2,15326.13,3670.07
+1100,2026-06-12,529,Bengaluru,Clothing,Mixer,4,999,Cash,Website,10,3596.4,2929.55,666.85
+1101,2026-06-12,503,Bengaluru,Beauty,Mixer,1,2499,Credit Card,Website,5,2374.05,2086.15,287.9
+1102,2026-02-02,520,Bengaluru,Home,Headphones,1,4999,,Mobile App,10,4499.1,3344.31,1154.79
+1103,2026-05-03,560,Ahmedabad,Clothing,Headphones,4,499,UPI,Mobile App,0,1996.0,1669.11,326.89
+1104,2026-01-05,559,Ahmedabad,Clothing,Watch,4,799,UPI,Mobile App,10,2876.4,1887.24,989.16
+1105,2026-02-10,536,Ahmedabad,Home,Skincare,3,299,Credit Card,Mobile App,10,807.3,623.53,183.77
+1106,2026-01-28,519,Mumbai,Clothing,Watch,2,1499,Debit Card,Mobile App,15,2548.3,1891.66,656.64
+1107,2026-05-15,526,Pune,Beauty,Headphones,3,1499,Cash,Website,10,4047.3,3201.65,845.65
+1108,2026-03-13,503,Bhubaneswar,Electronics,Mixer,1,999,Debit Card,Mobile App,10,899.1,598.01,301.09
+1109,2026-01-12,519,Bengaluru,Beauty,T-Shirt,1,499,Credit Card,Website,0,499.0,400.43,98.57
+1110,2026-06-11,520,Bengaluru,Electronics,Watch,1,7999,Credit Card,Website,15,6799.15,6430.57,368.58
+1111,2026-02-02,532,Mumbai,Electronics,Mixer,1,299,Debit Card,Website,20,239.2,250.13,-10.93
+1112,2026-02-17,507,Bengaluru,Beauty,T-Shirt,4,499,Cash,Mobile App,0,1996.0,1190.42,805.58
+1113,2026-05-31,552,Ahmedabad,Beauty,T-Shirt,1,299,Cash,Mobile App,0,299.0,220.36,78.64
+1114,2026-03-03,541,Bhubaneswar,Beauty,Headphones,4,999,UPI,Mobile App,20,3196.8,2766.32,430.48
+1115,2026-02-06,533,Delhi,Beauty,Watch,4,999,Cash,Website,10,3596.4,2610.65,985.75
+1116,2026-04-09,540,Bengaluru,Home,Shoes,1,7999,Debit Card,Website,5,7599.05,5243.04,2356.01
+1117,2026-06-21,539,Ahmedabad,Clothing,Laptop,1,1499,Credit Card,Website,15,1274.15,1010.08,264.07
+1118,2026-04-14,518,Delhi,Electronics,Headphones,2,499,UPI,Website,5,948.1,759.95,188.15
+1119,2026-02-04,540,Bhubaneswar,Beauty,Headphones,3,2499,UPI,Website,20,5997.6,5468.96,528.64
+1120,2026-04-11,501,Delhi,Beauty,Shoes,1,1499,Credit Card,Website,0,1499.0,1031.17,467.83
+1121,2026-06-24,511,Ahmedabad,Beauty,Laptop,2,499,Cash,Mobile App,0,998.0,571.63,426.37
+1122,2026-05-11,528,Pune,Home,Mixer,2,1499,Credit Card,Mobile App,15,2548.3,1718.84,829.46
+1123,2026-01-01,557,Pune,Beauty,Skincare,3,2499,Cash,Mobile App,0,7497.0,4128.61,3368.39
+1124,2026-01-05,525,Delhi,Beauty,Watch,4,799,Credit Card,Mobile App,0,3196.0,2685.63,510.37
+1125,2026-05-22,550,Mumbai,Beauty,Skincare,1,799,Debit Card,Website,15,679.15,440.71,238.44
+1126,2026-04-13,523,Delhi,Clothing,Mixer,3,7999,Cash,Website,15,20397.45,13940.53,6456.92
+1127,2026-01-27,531,Bengaluru,Home,Backpack,1,799,Debit Card,Mobile App,20,639.2,514.86,124.34
+1128,2026-05-17,530,Bengaluru,Beauty,Headphones,2,799,UPI,Website,0,1598.0,1265.98,332.02
+1129,2026-01-15,542,Pune,Electronics,Laptop,2,4999,Credit Card,Mobile App,0,9998.0,8384.62,1613.38
+1130,2026-03-31,535,Mumbai,Electronics,Headphones,4,299,UPI,Mobile App,20,956.8,941.26,15.54
+1131,2026-02-11,507,Ahmedabad,Electronics,T-Shirt,2,4999,UPI,Mobile App,10,8998.2,7570.17,1428.03
+1132,2026-05-04,560,Bengaluru,Home,Headphones,2,4999,UPI,Website,10,8998.2,7062.49,1935.71
+1133,2026-06-28,516,Pune,Home,Headphones,3,7999,UPI,Mobile App,10,21597.3,13822.55,7774.75
+1134,2026-03-04,526,Bhubaneswar,Electronics,Mixer,1,4999,Credit Card,Mobile App,20,3999.2,4186.42,-187.22
+1135,2026-04-06,548,Pune,Beauty,Mixer,1,799,UPI,Mobile App,0,799.0,621.24,177.76
+1136,2026-02-21,557,Bengaluru,Home,Mixer,3,2499,Credit Card,Website,20,5997.6,5560.41,437.19
+1137,2026-04-06,552,Bengaluru,Electronics,Skincare,4,7999,Credit Card,Website,20,25596.8,24883.63,713.17
+1138,2026-05-12,560,Pune,Electronics,T-Shirt,1,7999,Debit Card,Mobile App,10,7199.1,6137.08,1062.02
+1139,2026-05-31,549,Ahmedabad,Beauty,Backpack,2,999,Cash,Website,5,1898.1,1480.86,417.24
+1140,2026-05-23,502,Delhi,Clothing,Backpack,1,7999,Cash,Website,0,7999.0,6752.54,1246.46
+1141,2026-06-20,501,Bengaluru,Home,Mixer,2,999,Credit Card,Website,10,1798.2,1640.38,157.82
+1142,2026-01-29,548,Pune,Beauty,Laptop,4,7999,Debit Card,Website,5,30396.2,23805.01,6591.19
+1143,2026-02-05,512,Pune,Electronics,Skincare,3,299,Credit Card,Website,5,852.15,679.88,172.27
+1144,2026-01-13,505,Mumbai,Electronics,Shoes,1,799,Credit Card,Website,15,679.15,451.82,227.33
+1145,2026-06-09,537,Delhi,Beauty,Laptop,3,7999,Credit Card,Website,0,23997.0,18021.15,5975.85
+1146,2026-03-12,532,Bhubaneswar,Home,Watch,1,799,Debit Card,Website,5,759.05,450.04,309.01
+1147,2026-03-27,559,Ahmedabad,Clothing,Watch,2,799,Cash,Website,10,1438.2,1160.91,277.29
+1148,2026-01-28,555,Bhubaneswar,Clothing,Laptop,3,1499,Debit Card,Website,15,3822.45,3821.58,0.87
+1149,2026-03-07,509,Delhi,Electronics,Mixer,1,7999,UPI,Mobile App,0,7999.0,5733.22,2265.78
+1150,2026-06-19,541,Delhi,Home,Shoes,2,499,Debit Card,Mobile App,20,798.4,690.58,107.82
+1013,2026-04-10,555,Pune,Beauty,T-Shirt,3,4999,Credit Card,Website,20,11997.6,9130.68,2866.92
+1036,2026-02-24,524,Ahmedabad,Electronics,Laptop,3,799,Debit Card,Mobile App,20,1917.6,1780.68,136.92
